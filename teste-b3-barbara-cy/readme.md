@@ -8,7 +8,7 @@ npx cypress open, selecionar E2E Testing, selecionar o navegador desejado e por 
 
 No codigo foram inseridos alguns cy.wait(500) de forma proposital para ter uma melhor visualização do que ocorre no processo dentro do site dos correios.
 
-Existem diversas formas de melhorar tanto o projeto quanto o codigo, sendo, melhorar o readme, inserir custom commands, configurar mais formas de execução, adicionar mais ambientes para os testes serem executados, configurar uma pipeline entre outros.
+Existem diversas formas de melhorar tanto o projeto quanto o codigo, sendo, melhorar o readme, inserir custom commands, configurar mais formas de execução, adicionar mais ambientes para os testes serem executados, inserir um .gitignore configurar uma pipeline entre outros.
 
 Neste site existem muitos erros de backend que encontrei na execução dos testes, isso é um problema porque nao tem como garantir que o teste funcione 100% se o site esta com erros.
 
